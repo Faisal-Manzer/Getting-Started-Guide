@@ -11,7 +11,7 @@ Some concepts will be entirely new and can be very hard to understand, give a to
 **Documentation tutorial is hard to understand**: yes, I know that you will face this. The reason why I am pushing for documentation tutorials is that you need to learn how to read the documentation. When you will do a real project, reading will be the main key. **Copy Paste, Try to understand what is going on. Not understanding is completely fine, you will understand with videos when the creator will explain things.**
 
 **Disclaimer**: I am no a guru of anything, I took some of these courses, I included some creators that I love, some just came on a random search.
-This is not a combination of the greatest courses these are normal courses. I am affiliated with any one of them.  
+This is not a combination of the greatest courses these are normal courses. I am not affiliated with any one of them.  
 
 #### I AM WAITING FOR YOUR PR, PLEASE.
 
@@ -27,6 +27,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Flask](#flask)
         - [Django](#django)
         - [Express](#express)
+        - [Ruby on Rails](#ruby-on-rails)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
@@ -40,6 +41,7 @@ This is not a combination of the greatest courses these are normal courses. I am
 - [Technologies and Languages](#technologies-and-languages)
     - [Python](#python)
     - [Git and GitHub](#git-and-github)
+    - [Ruby](#ruby)
     
 
 ## Web Development
@@ -129,7 +131,7 @@ Django Rest Framework
 
 #### Ruby on Rails
 Ruby on Rails is the web framework that started it all. Launched over 13 years ago, it popularised web development and made it cool. It is a very powerful framework, that is incredibly easy to use and learn and can do anything you want it to. A lot of current popular frameworks like Django are inspired by Ruby on Rails.
-1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It is a course for fullstack development in Ruby on Rails, i.e. it will teach you backend, frontend and everything in between.
+1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It will teach you fullstack development in Ruby on Rails, i.e. backend, frontend, databases, testing and everything in between. You are basically empolyable after finishing this course.
 
 ## Cloud Computing and Security
 ### Get started with AWS
