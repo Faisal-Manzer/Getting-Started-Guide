@@ -127,6 +127,9 @@ Django Rest Framework
 2. [Get started with videos](https://www.youtube.com/watch?v=l2dKL2YrR1U&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I&index=14)
 3. [Rest API with Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
 
+#### Ruby on Rails
+1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need to learn Ruby on Rails. It is a course for fullstack development in Ruby on Rails, i.e. it will teach you backend, frontend and everything in between.
+
 ## Cloud Computing and Security
 ### Get started with AWS
 1. [Udemy Course AWS with Django](https://www.udemy.com/share/100nwIBEEbcldWQn4=/): Django only is at some part of the tutorial, I loved this course because it covers the whole architecture and is a great basic start.
