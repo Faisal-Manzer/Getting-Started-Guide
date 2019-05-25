@@ -185,6 +185,8 @@ Waiting for the PR.
 ### Python
 - [W3Schools](https://www.w3schools.com/python/default.asp)
 - [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
+### Ruby
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): This is probably the best Ruby course there is. It teaches Ruby using the concept of learning by doing (which, in my opinion, is the best way yo learn programming), i.e. you learn concepts by building projects using what you just learnt.
 ### Tools
 - [Udemy courses for free download](https://freecoursesite.com/)
 - [Free things](https://github.com/Faisal-Manzer/web-guide/blob/master/Download-guide.md)
