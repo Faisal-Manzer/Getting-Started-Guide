@@ -128,7 +128,8 @@ Django Rest Framework
 3. [Rest API with Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
 
 #### Ruby on Rails
-1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need to learn Ruby on Rails. It is a course for fullstack development in Ruby on Rails, i.e. it will teach you backend, frontend and everything in between.
+Ruby on Rails is the web framework that started it all. Launched over 13 years ago, it popularised web development and made it cool. It is a very powerful framework, that is incredibly easy to use and learn and can do anything you want it to. A lot of current popular frameworks like Django are inspired by Ruby on Rails.
+1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It is a course for fullstack development in Ruby on Rails, i.e. it will teach you backend, frontend and everything in between.
 
 ## Cloud Computing and Security
 ### Get started with AWS
