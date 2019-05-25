@@ -32,7 +32,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
     - [Cyber Security and Ethical Hacking](#cyber-security-and-ethical-hacking)
-- Machine Learning, AI, NLP
+- [Machine Learning AI NLP](#machine-learning-ai-nlp)
 - [App Development](#app-development)
     - [React Native](#react-native)
     - [Flutter](#flutter)
@@ -153,8 +153,19 @@ Take any of the two above course for getting started with basics. They have the 
 - [Basics of Cyber Security](https://www.udemy.com/share/1000AiAEYceF9SQHQ=/)
 - [Network security](https://www.udemy.com/share/100240AEYceF9SQHQ=/)
 
-## Machine Learning, AI, NLP
-I don't know anything about Machine Learning, but generally, people start with [this](https://www.coursera.org/learn/machine-learning).
+## Machine Learning AI NLP
+1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
+Complete the assignemnets for maximu outcome from this course.
+2. For Mathematics and Statistics, Youtube Channel like [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk) can be preferred.
+3. For understanding [Linear Algebra : Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) and how [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and [Differntial Equations :  Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) try these playlists. Channel [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) gives good visual animations to understand these concepts easily.
+4. For specialization in Machine Learning and Deep Learning complete all these [Course](https://www.coursera.org/specializations/deep-learning) in specialization pragramme with assignments.
+5. For some real world projects [Fast.ai](fast.ai) and [Applied AI Course](https://www.appliedaicourse.com/) are preffered.
+6. At last for learning more and more daily try reading as much research papers as possible.
+
+## App Development
+### React Native
+1. [Get Started with documentation](https://facebook.github.io/react-native/docs/getting-started)
+2. [Get Started with Videos](https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 
 ## App Development
 ### React Native
