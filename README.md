@@ -5,7 +5,7 @@ Students who are willing to start something this summer.
 Go through these basic tutorials and all courses. The Numbered bullets should be followed in sequence,
 whereas unordered bullets can be done randomly.  
 The thing will get easy with practice always start is hard. My suggestion is that go through the documentation tutorial first, then try video playlist. It will help you to understand better.  
-Some concepts will be entirely new and can be very hard to understand, give a tough fight try to understand one time two time five time but don't leave.  
+Some concepts will be entirely new and can be very hard to understand, give a tough fight try to understand one time two time five time but don't leave, you will understand things on the fly, Just dedicate time, and stay with problems.  
 
 **What to start?**: Just start with anything at the end of the day will learn some logic building and will learn something which will surely stay with you. You can switch domains afterwards when you find your interest.  
 **Documentation tutorial is hard to understand**: yes, I know that you will face this. The reason why I am pushing for documentation tutorials is that you need to learn how to read the documentation. When you will do a real project, reading will be the main key. **Copy Paste, Try to understand what is going on. Not understanding is completely fine, you will understand with videos when the creator will explain things.**
@@ -45,13 +45,13 @@ This is not a combination of the greatest courses these are normal courses. I am
     
 
 ## Web Development
-These are more than concepts and understanding terminologies. Backend generally needs critical thinking, logic building, and connecting things.
+These are more than concepts and understanding terminologies. Backend generally needs critical thinking, logic building, and connecting things. Frontend needs designing, displaying and connecting things.
 1. [How web works](https://www.youtube.com/watch?v=RsQ1tFLwldY)
-2. [HTTP Request and Resonse](https://www.youtube.com/watch?v=sxiRFwQ1RJ4&t=21s)
+2. [HTTP Request and Response](https://www.youtube.com/watch?v=sxiRFwQ1RJ4&t=21s)
 3. [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2). You will learn some things on the fly. Just dedicate time, and stay with problems. First, try to go with documentation tutorials and then move to video tutorials. Try some projects other than that of tutorials.
+The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2). 
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
@@ -135,17 +135,18 @@ Ruby on Rails is the web framework that started it all. Launched over 13 years a
 
 ## Cloud Computing and Security
 ### Get started with AWS
-1. [Udemy Course AWS with Django](https://www.udemy.com/share/100nwIBEEbcldWQn4=/): Django only is at some part of the tutorial, I loved this course because it covers the whole architecture and is a great basic start.
-2. [Understanding the Complex](https://www.udemy.com/share/10009iAEYceF9SQHQ=/): I haven't taken this course myself but going through syllabus it seems to be very much useful.
-3. [AWS for developers](https://www.udemy.com/share/1000viAEYceF9SQHQ=/): This is great for start and also DevOps.
+- [Udemy Course AWS with Django](https://www.udemy.com/share/100nwIBEEbcldWQn4=/): Django only is at some part of the tutorial, I loved this course because it covers the whole architecture and is a great basic start.
+- [Understanding the Complex](https://www.udemy.com/share/10009iAEYceF9SQHQ=/): I haven't taken this course myself but going through syllabus it seems to be very much useful.
+- [AWS for developers](https://www.udemy.com/share/1000viAEYceF9SQHQ=/): This is great for start and also DevOps.  
+
 Take one of these 3 courses to go with, you will understand what to do next. All three courses are different in some way.
 
 - [Server-less APIs](https://www.udemy.com/share/1001DoAEYceF9SQHQ=/)
 ### System design
-I love [this](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) tutorials for system design basics.
+I love [this](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) tutorials for understanding system design basics.
 
 ### Cyber Security and Ethical Hacking
-- [Web bug bounty](https://courses.learncodeonline.in/learn/Ethical-Hacking-Master-Course-Web-Bug-Bounty-from-scratch?tab=1): This is good for a backend developer, I took this course and was basic and good I guess.
+- [Web bug bounty](https://courses.learncodeonline.in/learn/Ethical-Hacking-Master-Course-Web-Bug-Bounty-from-scratch?tab=1): This is good for a backend developer, I took this course and was basic and good I guess, but is little outdated.
 - [Ethical Hacking](https://www.udemy.com/share/1013kMAEYceF9SQHQ=/)
 
 Take any of the two above course for getting started with basics. They have the same topics.
@@ -153,9 +154,17 @@ Take any of the two above course for getting started with basics. They have the 
 - [Basics of Cyber Security](https://www.udemy.com/share/1000AiAEYceF9SQHQ=/)
 - [Network security](https://www.udemy.com/share/100240AEYceF9SQHQ=/)
 
+## Data Structures and Algorithm
+### Core Concepts
+Core concept of Data structures are same for every language.
+- [On Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/): This is quite cool which covers the concepts with Pseudo-code.
+### With Python
+[Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.  
+### With C/C++
+I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
-Complete the assignemnets for maximu outcome from this course.
+Complete the assignments for maximu outcome from this course.
 2. For Mathematics and Statistics, Youtube Channel like [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk) can be preferred.
 3. For understanding [Linear Algebra : Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) and how [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and [Differntial Equations :  Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) try these playlists. Channel [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) gives good visual animations to understand these concepts easily.
 4. For specialization in Machine Learning and Deep Learning complete all these [Course](https://www.coursera.org/specializations/deep-learning) in specialization pragramme with assignments.
@@ -164,11 +173,8 @@ Complete the assignemnets for maximu outcome from this course.
 
 ## App Development
 ### React Native
-1. [Get Started with documentation](https://facebook.github.io/react-native/docs/getting-started)
-2. [Get Started with Videos](https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
+First learn basic [JavaScript](#basic-needed-for-all) and also [ES6 Syntax](#basic-level-2). All core concepts like JSX, Redux is same for [React](#react) and React Native.
 
-## App Development
-### React Native
 1. [Get Started with documentation](https://facebook.github.io/react-native/docs/getting-started)
 2. [Get Started with Videos](https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 
@@ -207,3 +213,40 @@ Waiting for the PR.
 ### Tools
 - [Udemy courses for free download](https://freecoursesite.com/)
 - [Free things](https://github.com/Faisal-Manzer/web-guide/blob/master/Download-guide.md)
+
+## ToDo Section
+- [ ] Web Development
+    - [ ] Frontend development
+        - [x] React
+        - [ ] Angular
+        - [ ] Vue
+        - [x] Design Concepts
+    - [ ] Backend Development
+        - [ ] Flask
+        - [x] Django
+        - [ ] Express
+        - [x] Ruby on Rails
+        - [ ] PHP
+        - [ ] Laravel
+- [x] Cloud Computing and Security
+    - [x] Get started with AWS
+    - [x] System design
+- [x] Cyber Security and Ethical Hacking
+- [ ] Data Structures and Algorithm
+    - [x] With Python
+    - [ ] With C/C++
+    - [ ] With Java
+- [x] Machine Learning AI NLP
+- [ ] App Development
+    - [x] React Native
+    - [ ] Flutter
+    - [ ] Android
+    - [ ] iOS
+- [ ] Technologies and Languages
+    - [ ] C and C++
+    - [ ] Java
+    - [x] Python
+    - [x] Git and GitHub
+    - [x] Ruby
+    - [x] Swift
+ 
