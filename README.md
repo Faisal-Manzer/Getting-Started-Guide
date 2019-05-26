@@ -140,7 +140,7 @@ Ruby on Rails is the web framework that started it all. Launched over 13 years a
 
 #### PHP
 PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
-1. [Get Started with documentation](https://www.php.net/manual/en/)
+1. [Get Started with documentation](https://www.w3schools.com/php7/default.asp)
 2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
 
 
