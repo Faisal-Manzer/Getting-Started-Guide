@@ -23,11 +23,12 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Angular](#angular)
         - [Basic Level 2](#basic-level-2)
         - [Design Concepts](#design-concepts)
-    - [Backend](#backend-development) 
+    - [Backend](#backend-development)
         - [Flask](#flask)
         - [Django](#django)
         - [Express](#express)
         - [Ruby on Rails](#ruby-on-rails)
+        - [PHP](#php)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
@@ -46,7 +47,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Python](#python)
     - [Git and GitHub](#git-and-github)
     - [Ruby](#ruby)
-    
+
 
 ## Web Development
 These are more than concepts and understanding terminologies. Backend generally needs critical thinking, logic building, and connecting things. Frontend needs designing, displaying and connecting things.
@@ -55,7 +56,7 @@ These are more than concepts and understanding terminologies. Backend generally 
 3. [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2). 
+The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2).
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
@@ -136,6 +137,13 @@ Django Rest Framework
 #### Ruby on Rails
 Ruby on Rails is the web framework that started it all. Launched over 13 years ago, it popularised web development and made it cool. It is a very powerful framework, that is incredibly easy to use and learn and can do anything you want it to. A lot of current popular frameworks like Django are inspired by Ruby on Rails.
 1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It will teach you fullstack development in Ruby on Rails, i.e. backend, frontend, databases, testing and everything in between. You are basically empolyable after finishing this course.
+
+#### PHP
+PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
+1. [Get Started with documentation](https://www.php.net/manual/en/)
+2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
+
+
 
 ## Cloud Computing and Security
 ### Get started with AWS
@@ -230,7 +238,7 @@ Waiting for the PR.
         - [x] Django
         - [ ] Express
         - [x] Ruby on Rails
-        - [ ] PHP
+        - [x] PHP
         - [ ] Laravel
 - [x] Cloud Computing and Security
     - [x] Get started with AWS
@@ -253,4 +261,3 @@ Waiting for the PR.
     - [x] Git and GitHub
     - [x] Ruby
     - [x] Swift
- 
