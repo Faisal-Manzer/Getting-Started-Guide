@@ -23,11 +23,13 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Angular](#angular)
         - [Basic Level 2](#basic-level-2)
         - [Design Concepts](#design-concepts)
-    - [Backend](#backend-development) 
+    - [Backend](#backend-development)
         - [Flask](#flask)
         - [Django](#django)
         - [Express](#express)
         - [Ruby on Rails](#ruby-on-rails)
+        - [PHP](#php)
+        - [Laravel](#laravel)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
@@ -46,7 +48,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Python](#python)
     - [Git and GitHub](#git-and-github)
     - [Ruby](#ruby)
-    
+
 
 ## Web Development
 These are more than concepts and understanding terminologies. Backend generally needs critical thinking, logic building, and connecting things. Frontend needs designing, displaying and connecting things.
@@ -55,7 +57,7 @@ These are more than concepts and understanding terminologies. Backend generally 
 3. [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2). 
+The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2).
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
@@ -129,6 +131,8 @@ Django Rest Framework
 [Django Cookbook for advanced users](https://books.agiliq.com/en/latest/): You will need this when developing a real-world application
 
 #### Express
+Express is a popular web framework, written in JavaScript and hosted within the Node.js runtime environment.
+It is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.It facilitates the rapid development of Node based Web applications.
 1. [Get Started with documentation](https://expressjs.com/en/starter/installing.html)
 2. [Get started with videos](https://www.youtube.com/watch?v=l2dKL2YrR1U&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I&index=14)
 3. [Rest API with Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
@@ -136,6 +140,17 @@ Django Rest Framework
 #### Ruby on Rails
 Ruby on Rails is the web framework that started it all. Launched over 13 years ago, it popularised web development and made it cool. It is a very powerful framework, that is incredibly easy to use and learn and can do anything you want it to. A lot of current popular frameworks like Django are inspired by Ruby on Rails.
 1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It will teach you fullstack development in Ruby on Rails, i.e. backend, frontend, databases, testing and everything in between. You are basically empolyable after finishing this course.
+
+#### PHP
+PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
+1. [Get Started with documentation](https://www.w3schools.com/php7/default.asp)
+2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
+
+#### Laravel
+Laravel is one of the most popular PHP framework used across the globe to build web application ranging from small to big projects. It follows MVC (Model View Controller) structure which makes it easy to learn and rapidly prototype the web applications.
+1. [Get Started with documentation](https://laravel.com/docs/5.8/installation)
+2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
+
 
 ## Cloud Computing and Security
 ### Get started with AWS
@@ -230,8 +245,8 @@ Waiting for the PR.
         - [x] Django
         - [ ] Express
         - [x] Ruby on Rails
-        - [ ] PHP
-        - [ ] Laravel
+        - [x] PHP
+        - [x] Laravel
 - [x] Cloud Computing and Security
     - [x] Get started with AWS
     - [x] System design
@@ -253,4 +268,3 @@ Waiting for the PR.
     - [x] Git and GitHub
     - [x] Ruby
     - [x] Swift
- 
