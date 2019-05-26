@@ -29,6 +29,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Express](#express)
         - [Ruby on Rails](#ruby-on-rails)
         - [PHP](#php)
+        - [Laravel](#laravel)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
@@ -143,6 +144,10 @@ PHP is a widely-used open source general-purpose scripting language that is espe
 1. [Get Started with documentation](https://www.w3schools.com/php7/default.asp)
 2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
 
+#### Laravel
+Laravel is one of the most popular PHP framework used across the globe to build web application ranging from small to big projects.It follows MVC (Model View Controller) structure which makes it easy to learn and rapidly prototype the web applications.
+1. [Get Started with documentation](https://laravel.com/docs/5.8/installation)
+2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
 
 ## Cloud Computing and Security
@@ -239,7 +244,7 @@ Waiting for the PR.
         - [ ] Express
         - [x] Ruby on Rails
         - [x] PHP
-        - [ ] Laravel
+        - [x] Laravel
 - [x] Cloud Computing and Security
     - [x] Get started with AWS
     - [x] System design
