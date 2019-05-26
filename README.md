@@ -2,13 +2,12 @@
 Students who are willing to start something this summer.  
 
 ## Mindset
-Go through these basic tutorials and all courses. The Numbered bullets should be followed in sequence,
-whereas unordered bullets can be done randomly.  
-The thing will get easy with practice always start is hard. My suggestion is that go through the documentation tutorial first, then try video playlist. It will help you to understand better.  
+Go through these basic tutorials and all courses. *The Numbered bullets should be followed in sequence, whereas unordered bullets can be done randomly*.  
+The thing will get easy with practice always start is hard. My suggestion is that **`go through the official tutorial first, then try video playlist`**. It will help you to understand better.  
 Some concepts will be entirely new and can be very hard to understand, give a tough fight try to understand one time two time five time but don't leave, you will understand things on the fly, Just dedicate time, and stay with problems.  
 
 **What to start?**: Just start with anything at the end of the day will learn some logic building and will learn something which will surely stay with you. You can switch domains afterwards when you find your interest.  
-**Documentation tutorial is hard to understand**: yes, I know that you will face this. The reason why I am pushing for documentation tutorials is that you need to learn how to read the documentation. When you will do a real project, reading will be the main key. **Copy Paste, Try to understand what is going on. Not understanding is completely fine, you will understand with videos when the creator will explain things.**
+**Official tutorial is hard to understand**: yes, I know that you will face this. The reason why I am pushing for documentation tutorials is that you need to learn how to read the documentation. When you will do a real project, reading will be the main key. **Copy Paste, Try to understand what is going on. Not understanding is completely fine, you will understand with videos when the creator will explain things.**
 
 **Disclaimer**: I am no a guru of anything, I took some of these courses, I included some creators that I love, some just came on a random search.
 This is not a combination of the greatest courses these are normal courses. I am not affiliated with any one of them.  
@@ -28,7 +27,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Django](#django)
         - [Express](#express)
         - [Ruby on Rails](#ruby-on-rails)
-        - [PHP](#php)
+        - [PHP](#php-backend)
         - [Laravel](#laravel)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
@@ -45,9 +44,12 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Android](#android)
     - [iOS](#ios)
 - [Technologies and Languages](#technologies-and-languages)
-    - [Python](#python)
     - [Git and GitHub](#git-and-github)
+    - [Python](#python)
     - [Ruby](#ruby)
+    - [Swift](#swift)
+    - [PHP](#php)
+    
 
 
 ## Web Development
@@ -70,7 +72,7 @@ This is a basic portion for anyone interested in frontend development. I guess a
 **A JavaScript library for building user interfaces.**  
 React is powerful yet simple, you need to learn only concepts and then it is super easy to use.
 
-1. [Get started with documentation](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+1. [Get started with official tutorial](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 2. [Get started with videos](https://www.youtube.com/watch?v=WDvn0w86itw&list=PLYxzS__5yYQmD7FV1YYz9UxPyGTNsFObp)
 3. Project: ToDo Application
 
@@ -89,7 +91,7 @@ Some Advanced concepts:
 4. [Axios](https://github.com/axios/axios): Although this has nothing to do with react but is very frequently used.
 
 #### Angular
-1. [Get started with documentation](https://angular.io/tutorial)
+1. [Get started with official tutorial](https://angular.io/tutorial)
 2. [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
 I haven't worked with angular yet, I would love for your pull request.
@@ -113,19 +115,19 @@ Designing is a large topic and require more experience than coding, see more and
 #### Flask
 Flask is easy and simple, used for simple to more complex applications.
 
-1. [Get started with documentation](http://flask.pocoo.org/docs/1.0/tutorial/)
+1. [Get started with official tutorial](http://flask.pocoo.org/docs/1.0/tutorial/)
 2. [Get started with videos](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 3. [Rest api with flask](https://www.youtube.com/watch?v=PTZiDnuC86g)
 
 #### Django
 Django is powerful and very organised, get started with Django can be a little overwhelming, so I would suggest that first complete [Flask](#flask) tutorial and then try hands with Django (you can start with Django, no problem at all, but flask will help you understand the need and core concept of Django).
 
-1. [Get Started with documentation](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
+1. [Get Started with official tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 2. [Get started with videos](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK): Although this tutorial is in Django 1.9 core concepts remain same.
 3. Project: Blog App
 
 Django Rest Framework
-1. [Get started with documentation](https://www.django-rest-framework.org/tutorial/quickstart/)
+1. [Get started with official tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
 2. [Get Started with videos](https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_)
 
 [Django Cookbook for advanced users](https://books.agiliq.com/en/latest/): You will need this when developing a real-world application
@@ -133,7 +135,7 @@ Django Rest Framework
 #### Express
 Express is a popular web framework, written in JavaScript and hosted within the Node.js runtime environment.
 It is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.It facilitates the rapid development of Node based Web applications.
-1. [Get Started with documentation](https://expressjs.com/en/starter/installing.html)
+1. [Get Started with official tutorial](https://expressjs.com/en/starter/installing.html)
 2. [Get started with videos](https://www.youtube.com/watch?v=l2dKL2YrR1U&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I&index=14)
 3. [Rest API with Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
 
@@ -141,14 +143,14 @@ It is a minimal and flexible Node.js web application framework that provides a r
 Ruby on Rails is the web framework that started it all. Launched over 13 years ago, it popularised web development and made it cool. It is a very powerful framework, that is incredibly easy to use and learn and can do anything you want it to. A lot of current popular frameworks like Django are inspired by Ruby on Rails.
 1. [The Odin Project](https://www.theodinproject.com): This is the best course for learning Ruby on Rails, and is arguably the only course you'll need for it. It will teach you fullstack development in Ruby on Rails, i.e. backend, frontend, databases, testing and everything in between. You are basically empolyable after finishing this course.
 
-#### PHP
+#### PHP Backend
 PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
-1. [Get Started with documentation](https://www.w3schools.com/php7/default.asp)
+1. [Get Started with W3Schools](https://www.w3schools.com/php7/default.asp)
 2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
 
 #### Laravel
 Laravel is one of the most popular PHP framework used across the globe to build web application ranging from small to big projects. It follows MVC (Model View Controller) structure which makes it easy to learn and rapidly prototype the web applications.
-1. [Get Started with documentation](https://laravel.com/docs/5.8/installation)
+1. [Get Started with official tutorial](https://laravel.com/docs/5.8/installation)
 2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
 
@@ -194,7 +196,7 @@ Complete the assignments for maximu outcome from this course.
 ### React Native
 First learn basic [JavaScript](#basic-needed-for-all) and also [ES6 Syntax](#basic-level-2). All core concepts like JSX, Redux is same for [React](#react) and React Native.
 
-1. [Get Started with documentation](https://facebook.github.io/react-native/docs/getting-started)
+1. [Get Started with official tutorial](https://facebook.github.io/react-native/docs/getting-started)
 2. [Get Started with Videos](https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 
 React Native can be frustrating while installing, I will highly recommend starting with **Expo**, which is under the tab `Expo CLI Quickstart` on page [Getting Started](https://facebook.github.io/react-native/docs/getting-started).
@@ -209,7 +211,7 @@ React Native is not self-sufficient, it needs more modules for little advanced u
 5. [Axios](https://github.com/axios/axios): Although this has nothing to do with react but is very frequently used.
 
 ### Flutter
-1. [Get started with documentation](https://flutter.dev/docs/reference/tutorials)
+1. [Get started with official tutorial](https://flutter.dev/docs/reference/tutorials)
 2. [Get started with video](https://www.youtube.com/watch?v=BDwCQc2uEfw&list=PLRAV69dS1uWT-ooTYHCqgxMTGA233JMrP)
 
 ### Android
@@ -218,7 +220,7 @@ Waiting for the PR.
 
 ### iOS
 1. [Swift Tutorial](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-2. [official apple tutorial](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) is great to start with.
+2. [Get started with official tutorial](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) is great to start with.
 3. [Udacity Free course](https://classroom.udacity.com/courses/ud585)
 
 ## Technologies and Languages
@@ -229,6 +231,12 @@ Waiting for the PR.
 - [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
 ### Ruby
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): This is probably the best Ruby course there is. It teaches Ruby using the concept of learning by doing (which, in my opinion, is the best way yo learn programming), i.e. you learn concepts by building projects using what you just learnt.
+
+### Swift
+Swift is the newest programming language and is easy to understand if you have basic concepts like Arrays and Function etc. Get Started with [Apple's Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html).
+### PHP
+See [W3School's Tutorial](https://www.w3schools.com/php7/default.asp)
+
 ### Tools
 - [Udemy courses for free download](https://freecoursesite.com/)
 - [Free things](https://github.com/Faisal-Manzer/web-guide/blob/master/Download-guide.md)
@@ -268,3 +276,4 @@ Waiting for the PR.
     - [x] Git and GitHub
     - [x] Ruby
     - [x] Swift
+    - [x] PHP
