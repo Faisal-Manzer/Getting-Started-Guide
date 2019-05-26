@@ -131,6 +131,8 @@ Django Rest Framework
 [Django Cookbook for advanced users](https://books.agiliq.com/en/latest/): You will need this when developing a real-world application
 
 #### Express
+Express is a popular web framework, written in JavaScript and hosted within the Node.js runtime environment.
+It is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.It facilitates the rapid development of Node based Web applications.
 1. [Get Started with documentation](https://expressjs.com/en/starter/installing.html)
 2. [Get started with videos](https://www.youtube.com/watch?v=l2dKL2YrR1U&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I&index=14)
 3. [Rest API with Express](https://www.youtube.com/watch?v=o3ka5fYysBM)
@@ -145,7 +147,7 @@ PHP is a widely-used open source general-purpose scripting language that is espe
 2. [Get started with videos](https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW&index=1)
 
 #### Laravel
-Laravel is one of the most popular PHP framework used across the globe to build web application ranging from small to big projects.It follows MVC (Model View Controller) structure which makes it easy to learn and rapidly prototype the web applications.
+Laravel is one of the most popular PHP framework used across the globe to build web application ranging from small to big projects. It follows MVC (Model View Controller) structure which makes it easy to learn and rapidly prototype the web applications.
 1. [Get Started with documentation](https://laravel.com/docs/5.8/installation)
 2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
