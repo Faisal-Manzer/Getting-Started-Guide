@@ -32,6 +32,10 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
     - [Cyber Security and Ethical Hacking](#cyber-security-and-ethical-hacking)
+- [Data structures and algorithms](#data-structures-and-algorithm)
+    - [Core Concepts](#core-concepts)
+    - [With C/C++](#with-cc)
+    - [With Python](#with-python)
 - [Machine Learning AI NLP](#machine-learning-ai-nlp)
 - [App Development](#app-development)
     - [React Native](#react-native)
@@ -231,7 +235,7 @@ Waiting for the PR.
 - [x] Cloud Computing and Security
     - [x] Get started with AWS
     - [x] System design
-- [x] Cyber Security and Ethical Hacking
+    - [x] Cyber Security and Ethical Hacking
 - [ ] Data Structures and Algorithm
     - [x] With Python
     - [ ] With C/C++
