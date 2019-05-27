@@ -49,6 +49,9 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Ruby](#ruby)
     - [Swift](#swift)
     - [PHP](#php)
+- [HTML5 Game Development](#html5-game-development)
+    - [Phaser](#phaser)
+    - [Gdevelop (no coding drag and drop)](#gdevelop)
     
 
 
@@ -241,6 +244,20 @@ See [W3School's Tutorial](https://www.w3schools.com/php7/default.asp)
 - [Udemy courses for free download](https://freecoursesite.com/)
 - [Free things](https://github.com/Faisal-Manzer/web-guide/blob/master/Download-guide.md)
 
+## HTML5 Game Development
+First learn basic JavaScript
+### Phaser
+it is 2D game engine for making HTML5 games
+-[Maing first Phaser game](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+-[Get started with videos](https://www.youtube.com/watch?v=uxos1GG32Tg&list=PLSzEv30tADGlAo-YqR6BFnIE6_NEMGwoc)
+### Babylon.js
+it is realtime 3D game engine for HTML5 games
+-[Get Started with official tutorial](https://doc.babylonjs.com/babylon101/)
+-[Get Started with videos](https://www.youtube.com/watch?v=X_a_PyV_wt4&list=PLS9MbmO_ssyCT1KHSi1GYX73ayv_9GusY)
+### GDevelop
+it is cross-platform game creator designed to be used by everyone - no programming skills are required to use the software.
+-[Get Started with official tutorial](http://wiki.compilgames.net/doku.php/gdevelop5/start)
+-[Get started with videos](https://www.youtube.com/watch?v=m_l3w0gT8rM&list=PLv_GZFB3Gp-exonvxCzKij4b4eJsu9REV)
 ## ToDo Section
 - [ ] Web Development
     - [ ] Frontend development
