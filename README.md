@@ -51,8 +51,9 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [PHP](#php)
 - [HTML5 Game Development](#html5-game-development)
     - [Phaser](#phaser)
+    - [Babylon.js](#babylonjs)
     - [Gdevelop (no coding drag and drop)](#gdevelop)
-    
+
 
 
 ## Web Development
@@ -230,8 +231,8 @@ Waiting for the PR.
 ### Git and GitHub
 [This Udacity course is great](https://classroom.udacity.com/courses/ud775)
 ### Python
-- [W3Schools](https://www.w3schools.com/python/default.asp)
-- [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
+1. [W3Schools](https://www.w3schools.com/python/default.asp)
+2. [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
 ### Ruby
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): This is probably the best Ruby course there is. It teaches Ruby using the concept of learning by doing (which, in my opinion, is the best way yo learn programming), i.e. you learn concepts by building projects using what you just learnt.
 
@@ -247,17 +248,17 @@ See [W3School's Tutorial](https://www.w3schools.com/php7/default.asp)
 ## HTML5 Game Development
 First learn basic JavaScript
 ### Phaser
-it is 2D game engine for making HTML5 games
-- [Maing first Phaser game](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
-- [Get started with videos](https://www.youtube.com/watch?v=uxos1GG32Tg&list=PLSzEv30tADGlAo-YqR6BFnIE6_NEMGwoc)
+It is 2D game engine for making HTML5 games.
+1. [Get Started with official tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+2. [Get started with videos](https://www.youtube.com/watch?v=uxos1GG32Tg&list=PLSzEv30tADGlAo-YqR6BFnIE6_NEMGwoc)
 ### Babylon.js
-it is realtime 3D game engine for HTML5 games
-- [Get Started with official tutorial](https://doc.babylonjs.com/babylon101/)
-- [Get Started with videos](https://www.youtube.com/watch?v=X_a_PyV_wt4&list=PLS9MbmO_ssyCT1KHSi1GYX73ayv_9GusY)
+It is realtime 3D game engine for HTML5 games.
+1. [Get Started with official tutorial](https://doc.babylonjs.com/babylon101/)
+2. [Get Started with videos](https://www.youtube.com/watch?v=X_a_PyV_wt4&list=PLS9MbmO_ssyCT1KHSi1GYX73ayv_9GusY)
 ### GDevelop
-it is cross-platform game creator designed to be used by everyone - no programming skills are required to use the software.
-- [Get Started with official tutorial](http://wiki.compilgames.net/doku.php/gdevelop5/start)
-- [Get started with videos](https://www.youtube.com/watch?v=m_l3w0gT8rM&list=PLv_GZFB3Gp-exonvxCzKij4b4eJsu9REV)
+It is cross-platform game creator designed to be used by everyone - no programming skills are required to use the software.
+1. [Get Started with official tutorial](http://wiki.compilgames.net/doku.php/gdevelop5/start)
+2. [Get started with videos](https://www.youtube.com/watch?v=m_l3w0gT8rM&list=PLv_GZFB3Gp-exonvxCzKij4b4eJsu9REV)
 ## ToDo Section
 - [ ] Web Development
     - [ ] Frontend development
@@ -294,3 +295,7 @@ it is cross-platform game creator designed to be used by everyone - no programmi
     - [x] Ruby
     - [x] Swift
     - [x] PHP
+- [x] HTML5 Game Development
+    - [x] Phaser
+    - [x] Babylon.js
+    - [x] Gdevelop (no coding drag and drop)
