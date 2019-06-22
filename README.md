@@ -132,7 +132,7 @@ Django is powerful and very organised, get started with Django can be a little o
 
 Django Rest Framework
 1. [Get started with official tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
-2. [Get Started with videos](https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_)
+2. [Get Started with videos](https://www.youtube.com/watch?v=5d-zaQ69-5s&list=PL1WVjBsN-_NJ4urkLt7iVDocVu_ZQgVzF)
 
 [Django Cookbook for advanced users](https://books.agiliq.com/en/latest/): You will need this when developing a real-world application
 
