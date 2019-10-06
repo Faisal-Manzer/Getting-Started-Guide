@@ -37,6 +37,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Core Concepts](#core-concepts)
     - [With C/C++](#with-cc)
     - [With Python](#with-python)
+- [Placement Prep](#placement-prep)
 - [Machine Learning AI NLP](#machine-learning-ai-nlp)
 - [Data Analytics](#data-analytics-python)
 - [App Development](#app-development)
@@ -54,7 +55,9 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Phaser](#phaser)
     - [Babylon.js](#babylonjs)
     - [Gdevelop (no coding drag and drop)](#gdevelop)
-
+- [Interview Prep](#interview-prep)
+    - [Coding Interviews](#coding-interviews)
+    - [Aptitude](#aptitude)
 
 
 ## Web Development
@@ -103,8 +106,10 @@ Some Advanced concepts:
 4. [Angular Front to back](https://www.udemy.com/course/angular-4-front-to-back/)
 5. [Angular Crash Course for busy developers](https://www.udemy.com/course/angular-crash-course/)
 6. [Angular Styling and Mastercourse](https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/)
+7. [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
+8. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
+9. [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
 
-I haven't worked with angular yet, I would love for your pull request.
 
 #### Basic Level 2
 Now JavaScript generally means combined with node.
@@ -191,17 +196,24 @@ Take any of the two above course for getting started with basics. They have the 
 Core concept of Data structures are same for every language.
 - [On Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/): This is quite cool which covers the concepts with Pseudo-code.
 ### With Python
-[Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.  
-### With C/C++
-I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
-[Master data structure with c and c++](https://www.udemy.com/course/datastructurescncpp/)
+1. [Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.
+2. [Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi](https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-e158071362.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
 
-### With Java from Basics 
+### With C/C++
+1. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
+2. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
+3.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+
+### With Java
 [Apni Kaksha](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
 [Practical Data structure and algotithm with java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
 [Data Structure and Deepdive using java](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
 
 [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
+## Placement Prep
+[Aman Dhattarwal](https://www.youtube.com/watch?v=PihtA9D-IlE): This guy probably nails it when it comes to knowledge about placement procedure and planned career tracks.
+
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximum outcome from this course.
@@ -209,7 +221,8 @@ Complete the assignments for maximum outcome from this course.
 3. For understanding [Linear Algebra : Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) and how [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and [Differntial Equations :  Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) try these playlists. Channel [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) gives good visual animations to understand these concepts easily.
 4. For specialization in Machine Learning and Deep Learning complete all these [Course](https://www.coursera.org/specializations/deep-learning) in specialization pragramme with assignments.
 5. For some real world projects [Fast.ai](fast.ai) and [Applied AI Course](https://www.appliedaicourse.com/) are preffered.
-6. At last for learning more and more daily try reading as much research papers as possible.
+6. [Krish Naik](https://www.youtube.com/results?search_query=krish+naik): Apart from his tutorials on various ml,ai and data science concepts, his introductory videos are a treat for the beginners as they include best online resources(free and paid ones) for learning several field concepts, system configs required, interview questions and interactive sessions involving his path to data science etc.
+7. At last for learning more and more daily try reading as much research papers as possible.
 
 ### Data analytics
 1. Before going into the topics of Data Analytics one needs to clear the basics of Statistics. To brush up that here is a [playlist](https://www.youtube.com/playlist?list=PLlz0muypSBNYknvzMnyQd37CFEzpVXQGZ) to help you out.
@@ -270,6 +283,7 @@ Waiting for the PR.
 ### Python
 1. [W3Schools](https://www.w3schools.com/python/default.asp)
 2. [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
+3.[Learn Python with Corey Schafer](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) This is indeed the best python course available for free online. The playlist includes general OOPs concepts, setting up the IDE and moves onto specific libraries including matplotlib(), image processing using pillow and django tutorials.
 ### Ruby
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): This is probably the best Ruby course there is. It teaches Ruby using the concept of learning by doing (which, in my opinion, is the best way yo learn programming), i.e. you learn concepts by building projects using what you just learnt.
 
@@ -277,6 +291,12 @@ Waiting for the PR.
 Swift is the newest programming language and is easy to understand if you have basic concepts like Arrays and Function etc. Get Started with [Apple's Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html).
 ### PHP
 See [W3School's Tutorial](https://www.w3schools.com/php7/default.asp)
+
+### JAVA
+Top Websites for getting started
+- [Tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
+- [W3School's](https://www.w3schools.com/java/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/java-tutorials/)
 
 ### Tools
 - [Udemy courses for free download](https://freecoursesite.com/)
@@ -296,11 +316,25 @@ It is realtime 3D game engine for HTML5 games.
 It is cross-platform game creator designed to be used by everyone - no programming skills are required to use the software.
 1. [Get Started with official tutorial](http://wiki.compilgames.net/doku.php/gdevelop5/start)
 2. [Get started with videos](https://www.youtube.com/watch?v=m_l3w0gT8rM&list=PLv_GZFB3Gp-exonvxCzKij4b4eJsu9REV)
+
+## Interview Prep
+Interview is an important stage in one's life inorder to get a job in a good organization or admission in a university. Following are some of the good website/tutorials to crack interviews:
+
+### Coding Interviews
+1. [GeeksforGeeks](https://www.geeksforgeeks.org)
+2. [Hackerrank](https://www.hackerrank.com)
+3. [CareerCup](https://careercup.com)
+
+### Aptitude
+1. [Indiabix](https://www.indiabix.com)
+2. [GeeksforGeeks](https://www.geeksforgeeks.org)
+3. [Last Moment Tutions (Simple & Easy)](https://www.youtube.com/watch?v=ZwZPAP2mbCA&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
+
 ## ToDo Section
 - [ ] Web Development
     - [ ] Frontend development
         - [x] React
-        - [ ] Angular
+        - [x] Angular
         - [ ] Vue
         - [x] Design Concepts
     - [ ] Backend Development
@@ -316,8 +350,8 @@ It is cross-platform game creator designed to be used by everyone - no programmi
     - [x] Cyber Security and Ethical Hacking
 - [ ] Data Structures and Algorithm
     - [x] With Python
-    - [ ] With C/C++
-    - [ ] With Java
+    - [x] With C/C++
+    - [x] With Java
 - [x] Machine Learning AI NLP
 - [ ] App Development
     - [x] React Native
@@ -326,7 +360,7 @@ It is cross-platform game creator designed to be used by everyone - no programmi
     - [ ] iOS
 - [ ] Technologies and Languages
     - [ ] C and C++
-    - [ ] Java
+    - [x] Java
     - [x] Python
     - [x] Git and GitHub
     - [x] Ruby
@@ -336,3 +370,6 @@ It is cross-platform game creator designed to be used by everyone - no programmi
     - [x] Phaser
     - [x] Babylon.js
     - [x] Gdevelop (no coding drag and drop)
+- [x] Interview prep
+    - [x] Coding Interview
+    - [x] Aptitude
