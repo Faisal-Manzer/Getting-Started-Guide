@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "faraazahmad",
+      "name": "Syed Faraaz Ahmad",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19265077?v=4",
+      "profile": "https://faraazahmad.github.io",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Productive-Summer",
+  "projectOwner": "Faisal-Manzer",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
