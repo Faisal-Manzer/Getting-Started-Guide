@@ -197,7 +197,7 @@ Complete the assignments for maximum outcome from this course.
 5. For some real world projects [Fast.ai](fast.ai) and [Applied AI Course](https://www.appliedaicourse.com/) are preffered.
 6. At last for learning more and more daily try reading as much research papers as possible.
 
-##Data analytics
+### Data analytics
 1. Before going into the topics of Data Analytics one needs to clear the basics of Statistics. To brush up that here is a [playlist](https://www.youtube.com/playlist?list=PLlz0muypSBNYknvzMnyQd37CFEzpVXQGZ) to help you out.
 2. Once you're done with the basic of statistics, you need to install a few pip files to get started with Data Analytics on Python. Given below are the necessary pip files you need to install.
 3. Pandas: Pandas is an open source tool for Python, which helps in Data Structures and Data Analysis. To install Pandas you need to do [this](https://pandas.pydata.org/)
@@ -208,6 +208,7 @@ Complete the assignments for maximum outcome from this course.
 [Data Analysis with Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 [MatPlotLib Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 You can also look at this course from [Coursera](https://www.coursera.org/learn/data-analysis-with-python)
+
 ## App Development
 ### React Native
 First learn basic [JavaScript](#basic-needed-for-all) and also [ES6 Syntax](#basic-level-2). All core concepts like JSX, Redux is same for [React](#react) and React Native.
