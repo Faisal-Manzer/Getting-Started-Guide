@@ -38,6 +38,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [With C/C++](#with-cc)
     - [With Python](#with-python)
 - [Machine Learning AI NLP](#machine-learning-ai-nlp)
+- [Data Analytics](#data-analytics-python)
 - [App Development](#app-development)
     - [React Native](#react-native)
     - [Flutter](#flutter)
@@ -189,13 +190,24 @@ Core concept of Data structures are same for every language.
 I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
-Complete the assignments for maximu outcome from this course.
+Complete the assignments for maximum outcome from this course.
 2. For Mathematics and Statistics, Youtube Channel like [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk) can be preferred.
 3. For understanding [Linear Algebra : Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) and how [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and [Differntial Equations :  Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) try these playlists. Channel [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) gives good visual animations to understand these concepts easily.
 4. For specialization in Machine Learning and Deep Learning complete all these [Course](https://www.coursera.org/specializations/deep-learning) in specialization pragramme with assignments.
 5. For some real world projects [Fast.ai](fast.ai) and [Applied AI Course](https://www.appliedaicourse.com/) are preffered.
 6. At last for learning more and more daily try reading as much research papers as possible.
 
+##Data analytics
+1. Before going into the topics of Data Analytics one needs to clear the basics of Statistics. To brush up that here is a [playlist](https://www.youtube.com/playlist?list=PLlz0muypSBNYknvzMnyQd37CFEzpVXQGZ) to help you out.
+2. Once you're done with the basic of statistics, you need to install a few pip files to get started with Data Analytics on Python. Given below are the necessary pip files you need to install.
+3. Pandas: Pandas is an open source tool for Python, which helps in Data Structures and Data Analysis. To install Pandas you need to do [this](https://pandas.pydata.org/)
+4. The next Important tool is installing MatPlotLib. MatPlotLib is another open source library that allows you to generate plots, histograms, bar charts, scatterplots, box plots, etc. To install matplotlib do [this](https://matplotlib.org/users/installing.html).
+5. While most of the IDEs come with NumPy already installed if you have any problem with NumPy do [this](https://www.scipy.org/install.html)
+6. Once you have set up all the necessary files, you can start with the below tutorials:
+[Pandas Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+[Data Analysis with Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+[MatPlotLib Tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
+You can also look at this course from [Coursera](https://www.coursera.org/learn/data-analysis-with-python)
 ## App Development
 ### React Native
 First learn basic [JavaScript](#basic-needed-for-all) and also [ES6 Syntax](#basic-level-2). All core concepts like JSX, Redux is same for [React](#react) and React Native.
