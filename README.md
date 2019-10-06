@@ -254,6 +254,12 @@ Swift is the newest programming language and is easy to understand if you have b
 ### PHP
 See [W3School's Tutorial](https://www.w3schools.com/php7/default.asp)
 
+### JAVA
+Top Websites for getting started
+- [Tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
+- [W3School's](https://www.w3schools.com/java/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/java-tutorials/)
+
 ### Tools
 - [Udemy courses for free download](https://freecoursesite.com/)
 - [Free things](https://github.com/Faisal-Manzer/web-guide/blob/master/Download-guide.md)
