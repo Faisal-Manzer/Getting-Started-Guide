@@ -65,15 +65,16 @@ These are more than concepts and understanding terminologies. Backend generally 
 1. [How web works](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 2. [HTTP Request and Response](https://www.youtube.com/watch?v=sxiRFwQ1RJ4&t=21s)
 3. [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+4. [The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2).
+The workflow that I will suggest that do [Basic](https://www.udemy.com/course/front-end-web-development/) and then move to [React](https://www.udemy.com/course/react-2nd-edition/) (because that is easy to start with) then come to [Basic Level 2](https://www.youtube.com/watch?v=1haoknb4m6k).
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
 2. [CSS](https://www.w3schools.com/css/default.asp): The beauty
 3. [JS Basic](https://www.w3schools.com/js/default.asp): The logic
-
+4. [HTML BASIC 2](https://www.udemy.com/course/html-basic/) : The practical 
 This is a basic portion for anyone interested in frontend development. I guess a good read for HTML, seeing some examples of CSS and trying some of JS will do. Don't get stuck here for long.
 
 #### React
@@ -101,11 +102,14 @@ Some Advanced concepts:
 #### Angular
 1. [Get started with official tutorial](https://angular.io/tutorial)
 2. [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
-3. [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
-4. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
-5. [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
+3. [Angular Concepts](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+4. [Angular Front to back](https://www.udemy.com/course/angular-4-front-to-back/)
+5. [Angular Crash Course for busy developers](https://www.udemy.com/course/angular-crash-course/)
+6. [Angular Styling and Mastercourse](https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/)
+7. [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
+8. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
+9. [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
 
-I haven't worked with angular yet, I would love for your pull request.
 
 #### Basic Level 2
 Now JavaScript generally means combined with node.
@@ -135,7 +139,8 @@ Django is powerful and very organised, get started with Django can be a little o
 
 1. [Get Started with official tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 2. [Get started with videos](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK): Although this tutorial is in Django 1.9 core concepts remain same.
-3. Project: Blog App
+
+3. Project: Blog App [Create a complete website with django](https://www.udemy.com/course/django-web-developers/)
 
 Django Rest Framework
 1. [Get started with official tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
@@ -198,8 +203,17 @@ Core concept of Data structures are same for every language.
 1. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
 2. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
 3.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+
+### With Java
+[Apni Kaksha](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+[Practical Data structure and algotithm with java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
+[Data Structure and Deepdive using java](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
+
+[Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
 ## Placement Prep
 [Aman Dhattarwal](https://www.youtube.com/watch?v=PihtA9D-IlE): This guy probably nails it when it comes to knowledge about placement procedure and planned career tracks.
+
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximum outcome from this course.
@@ -246,6 +260,9 @@ React Native is not self-sufficient, it needs more modules for little advanced u
 
 ### Android
 - [Udacity Basic Course](https://classroom.udacity.com/courses/ud851)
+- [Google android developer Course](https://developer.android.com/courses)
+- [Android Developer Course](https://www.udemy.com/course/complete-android-n-developer-course/)
+- [Android Developer Guide](https://developer.android.com/guide)
 Waiting for the PR.
 
 ### iOS
@@ -254,6 +271,13 @@ Waiting for the PR.
 3. [Udacity Free course](https://classroom.udacity.com/courses/ud585)
 
 ## Technologies and Languages
+
+
+### Java 
+[Apni Kaksha](https://www.youtube.com/results?search_query=apni+kaksha)
+[Java Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+[Java Projects](https://www.udemy.com/course/selenium-training/)
+[Java In depth all levels](https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/)
 ### Git and GitHub
 [This Udacity course is great](https://classroom.udacity.com/courses/ud775)
 ### Python
@@ -326,8 +350,8 @@ Interview is an important stage in one's life inorder to get a job in a good org
     - [x] Cyber Security and Ethical Hacking
 - [ ] Data Structures and Algorithm
     - [x] With Python
-    - [ ] With C/C++
-    - [ ] With Java
+    - [x] With C/C++
+    - [x] With Java
 - [x] Machine Learning AI NLP
 - [ ] App Development
     - [x] React Native
@@ -336,7 +360,7 @@ Interview is an important stage in one's life inorder to get a job in a good org
     - [ ] iOS
 - [ ] Technologies and Languages
     - [ ] C and C++
-    - [ ] Java
+    - [x] Java
     - [x] Python
     - [x] Git and GitHub
     - [x] Ruby
