@@ -1,5 +1,5 @@
 # Productive Summer
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 Students who are willing to start something this summer.  
 
 ## Mindset
@@ -384,6 +384,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://faraazahmad.github.io"><img src="https://avatars1.githubusercontent.com/u/19265077?v=4" width="100px;" alt="Syed Faraaz Ahmad"/><br /><sub><b>Syed Faraaz Ahmad</b></sub></a><br /><a href="#content-faraazahmad" title="Content">🖋</a></td>
+    <td align="center"><a href="http://alhacen.cf"><img src="https://avatars3.githubusercontent.com/u/15712390?v=4" width="100px;" alt="AHMAD HASSAN ANSARI"/><br /><sub><b>AHMAD HASSAN ANSARI</b></sub></a><br /><a href="#content-alhaqhassan" title="Content">🖋</a></td>
   </tr>
 </table>
 
