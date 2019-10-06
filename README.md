@@ -185,13 +185,13 @@ Take any of the two above course for getting started with basics. They have the 
 Core concept of Data structures are same for every language.
 - [On Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/): This is quite cool which covers the concepts with Pseudo-code.
 ### With Python
-1.[Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.
-2.[Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi](https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-e158071362.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+1. [Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.
+2. [Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi](https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-e158071362.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
 
 ### With C/C++
-1.I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
-2.Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
-3.[Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+1. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
+2. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
+3.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
 ## Placement Prep
 [Aman Dhattarwal](https://www.youtube.com/watch?v=PihtA9D-IlE): This guy probably nails it when it comes to knowledge about placement procedure and planned career tracks.
 ## Machine Learning AI NLP
