@@ -383,6 +383,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://faraazahmad.github.io"><img src="https://avatars1.githubusercontent.com/u/19265077?v=4" width="100px;" alt="Syed Faraaz Ahmad"/><br /><sub><b>Syed Faraaz Ahmad</b></sub></a><br /><a href="#content-faraazahmad" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.hackerrank.com"><img src="https://avatars3.githubusercontent.com/u/46952155?v=4" width="100px;" alt="Dhruv Trehan"/><br /><sub><b>Dhruv Trehan</b></sub></a><br /><a href="#content-DhruvTrehan" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ShobhitRathi"><img src="https://avatars3.githubusercontent.com/u/23173530?v=4" width="100px;" alt="ShobhitRathi"/><br /><sub><b>ShobhitRathi</b></sub></a><br /><a href="#content-ShobhitRathi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mauwazahmed"><img src="https://avatars2.githubusercontent.com/u/56031816?v=4" width="100px;" alt="mauwazahmed"/><br /><sub><b>mauwazahmed</b></sub></a><br /><a href="#content-mauwazahmed" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/azhanmohammed/"><img src="https://avatars1.githubusercontent.com/u/46521547?v=4" width="100px;" alt="Azhan Mohammed"/><br /><sub><b>Azhan Mohammed</b></sub></a><br /><a href="#content-sheikhazhanmohammed" title="Content">🖋</a></td>
