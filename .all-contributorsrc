@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "Faisal-Manzer",
+      "name": "Faisal Manzer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18066439?v=4",
+      "profile": "https://faisal-manzer.in",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "faraazahmad",
       "name": "Syed Faraaz Ahmad",
       "avatar_url": "https://avatars1.githubusercontent.com/u/19265077?v=4",
@@ -20,8 +29,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/46952155?v=4",
       "profile": "https://www.hackerrank.com",
       "contributions": [
-          "content"
-        ]
+        "content"
+      ]
     },
     {
       "login": "ShobhitRathi",
@@ -29,16 +38,17 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/23173530?v=4",
       "profile": "https://github.com/ShobhitRathi",
       "contributions": [
-          "content"
-        ]
+        "content"
+      ]
     },
-    {      "login": "mauwazahmed",
+    {
+      "login": "mauwazahmed",
       "name": "mauwazahmed",
       "avatar_url": "https://avatars2.githubusercontent.com/u/56031816?v=4",
       "profile": "https://github.com/mauwazahmed",
       "contributions": [
-          "content"
-        ]
+        "content"
+      ]
     },
     {
       "login": "sheikhazhanmohammed",
@@ -46,28 +56,28 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/46521547?v=4",
       "profile": "https://www.linkedin.com/in/azhanmohammed/",
       "contributions": [
-          "content"
-        ]
+        "content"
+      ]
     },
     {
-        "login": "alhaqhassan",
-        "name": "AHMAD HASSAN ANSARI",
-        "avatar_url": "https://avatars3.githubusercontent.com/u/15712390?v=4",
-        "profile": "http://alhacen.cf",
-        "contributions": [
-          "content"
-        ]
-      },
-      {
-        "login": "sahilkhan03",
-        "name": "Md. Sahil Khan",
-        "avatar_url": "https://avatars2.githubusercontent.com/u/45485428?v=4",
-        "profile": "http://sahilkhan.me",
-        "contributions": [
-          "content"
-        ]
-      },
-      {
+      "login": "alhaqhassan",
+      "name": "AHMAD HASSAN ANSARI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15712390?v=4",
+      "profile": "http://alhacen.cf",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sahilkhan03",
+      "name": "Md. Sahil Khan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45485428?v=4",
+      "profile": "http://sahilkhan.me",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "Arifkhan21",
       "name": "Arif Khan",
       "avatar_url": "https://avatars1.githubusercontent.com/u/31159594?v=4",
