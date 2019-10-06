@@ -55,7 +55,9 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Phaser](#phaser)
     - [Babylon.js](#babylonjs)
     - [Gdevelop (no coding drag and drop)](#gdevelop)
-
+- [Interview Prep](#interview-prep)
+    - [Coding Interviews](#coding-interviews)
+    - [Aptitude](aptitude)
 
 
 ## Web Development
@@ -99,6 +101,9 @@ Some Advanced concepts:
 #### Angular
 1. [Get started with official tutorial](https://angular.io/tutorial)
 2. [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+3. [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
+4. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
+5. [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
 
 I haven't worked with angular yet, I would love for your pull request.
 
@@ -287,11 +292,25 @@ It is realtime 3D game engine for HTML5 games.
 It is cross-platform game creator designed to be used by everyone - no programming skills are required to use the software.
 1. [Get Started with official tutorial](http://wiki.compilgames.net/doku.php/gdevelop5/start)
 2. [Get started with videos](https://www.youtube.com/watch?v=m_l3w0gT8rM&list=PLv_GZFB3Gp-exonvxCzKij4b4eJsu9REV)
+
+## Interview Prep
+Interview is an important stage in one's life inorder to get a job in a good organization or admission in a university. Following are some of the good website/tutorials to crack interviews:
+
+### Coding Interviews
+1. [GeeksforGeeks](https://www.geeksforgeeks.org)
+2. [Hackerrank](https://www.hackerrank.com)
+3. [CareerCup](https://careercup.com)
+
+#### Aptitude
+1. [Indiabix](https://www.indiabix.com)
+2. [GeeksforGeeks](https://www.geeksforgeeks.org)
+3. [Last Moment Tutions (Simple & Easy)](https://www.youtube.com/watch?v=ZwZPAP2mbCA&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
+
 ## ToDo Section
 - [ ] Web Development
     - [ ] Frontend development
         - [x] React
-        - [ ] Angular
+        - [x] Angular
         - [ ] Vue
         - [x] Design Concepts
     - [ ] Backend Development
@@ -327,4 +346,4 @@ It is cross-platform game creator designed to be used by everyone - no programmi
     - [x] Phaser
     - [x] Babylon.js
     - [x] Gdevelop (no coding drag and drop)
-- [ ] Interview prep
+- [x] Interview prep
