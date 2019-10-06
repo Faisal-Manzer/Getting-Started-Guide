@@ -57,7 +57,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Gdevelop (no coding drag and drop)](#gdevelop)
 - [Interview Prep](#interview-prep)
     - [Coding Interviews](#coding-interviews)
-    - [Aptitude](aptitude)
+    - [Aptitude](#aptitude)
 
 
 ## Web Development
