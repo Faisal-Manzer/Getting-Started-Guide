@@ -62,15 +62,16 @@ These are more than concepts and understanding terminologies. Backend generally 
 1. [How web works](https://www.youtube.com/watch?v=RsQ1tFLwldY)
 2. [HTTP Request and Response](https://www.youtube.com/watch?v=sxiRFwQ1RJ4&t=21s)
 3. [What is Rest API](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+4. [The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2).
+The workflow that I will suggest that do [Basic](https://www.udemy.com/course/front-end-web-development/) and then move to [React](https://www.udemy.com/course/react-2nd-edition/) (because that is easy to start with) then come to [Basic Level 2](https://www.youtube.com/watch?v=1haoknb4m6k).
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
 2. [CSS](https://www.w3schools.com/css/default.asp): The beauty
 3. [JS Basic](https://www.w3schools.com/js/default.asp): The logic
-
+4. [HTML BASIC 2](https://www.udemy.com/course/html-basic/) : The practical 
 This is a basic portion for anyone interested in frontend development. I guess a good read for HTML, seeing some examples of CSS and trying some of JS will do. Don't get stuck here for long.
 
 #### React
@@ -98,6 +99,10 @@ Some Advanced concepts:
 #### Angular
 1. [Get started with official tutorial](https://angular.io/tutorial)
 2. [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+3. [Angular Concepts](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+4. [Angular Front to back](https://www.udemy.com/course/angular-4-front-to-back/)
+5. [Angular Crash Course for busy developers](https://www.udemy.com/course/angular-crash-course/)
+6. [Angular Styling and Mastercourse](https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/)
 
 I haven't worked with angular yet, I would love for your pull request.
 
@@ -129,7 +134,8 @@ Django is powerful and very organised, get started with Django can be a little o
 
 1. [Get Started with official tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 2. [Get started with videos](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK): Although this tutorial is in Django 1.9 core concepts remain same.
-3. Project: Blog App
+
+3. Project: Blog App [Create a complete website with django](https://www.udemy.com/course/django-web-developers/)
 
 Django Rest Framework
 1. [Get started with official tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
@@ -188,6 +194,14 @@ Core concept of Data structures are same for every language.
 [Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.  
 ### With C/C++
 I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
+[Master data structure with c and c++](https://www.udemy.com/course/datastructurescncpp/)
+
+### With Java from Basics 
+[Apni Kaksha](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+[Practical Data structure and algotithm with java](https://www.udemy.com/course/practical-data-structures-algorithms-in-java/)
+[Data Structure and Deepdive using java](https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/)
+
+[Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximum outcome from this course.
@@ -233,6 +247,9 @@ React Native is not self-sufficient, it needs more modules for little advanced u
 
 ### Android
 - [Udacity Basic Course](https://classroom.udacity.com/courses/ud851)
+- [Google android developer Course](https://developer.android.com/courses)
+- [Android Developer Course](https://www.udemy.com/course/complete-android-n-developer-course/)
+- [Android Developer Guide](https://developer.android.com/guide)
 Waiting for the PR.
 
 ### iOS
@@ -241,6 +258,13 @@ Waiting for the PR.
 3. [Udacity Free course](https://classroom.udacity.com/courses/ud585)
 
 ## Technologies and Languages
+
+
+### Java 
+[Apni Kaksha](https://www.youtube.com/results?search_query=apni+kaksha)
+[Java Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+[Java Projects](https://www.udemy.com/course/selenium-training/)
+[Java In depth all levels](https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/)
 ### Git and GitHub
 [This Udacity course is great](https://classroom.udacity.com/courses/ud775)
 ### Python
