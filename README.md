@@ -301,7 +301,7 @@ Interview is an important stage in one's life inorder to get a job in a good org
 2. [Hackerrank](https://www.hackerrank.com)
 3. [CareerCup](https://careercup.com)
 
-#### Aptitude
+### Aptitude
 1. [Indiabix](https://www.indiabix.com)
 2. [GeeksforGeeks](https://www.geeksforgeeks.org)
 3. [Last Moment Tutions (Simple & Easy)](https://www.youtube.com/watch?v=ZwZPAP2mbCA&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
@@ -347,3 +347,5 @@ Interview is an important stage in one's life inorder to get a job in a good org
     - [x] Babylon.js
     - [x] Gdevelop (no coding drag and drop)
 - [x] Interview prep
+    - [x] Coding Interview
+    - [x] Aptitude
