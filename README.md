@@ -384,6 +384,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://faraazahmad.github.io"><img src="https://avatars1.githubusercontent.com/u/19265077?v=4" width="100px;" alt="Syed Faraaz Ahmad"/><br /><sub><b>Syed Faraaz Ahmad</b></sub></a><br /><a href="#content-faraazahmad" title="Content">🖋</a></td>
+    <td align="center"><a href="http://sahilkhan.me"><img src="https://avatars2.githubusercontent.com/u/45485428?v=4" width="100px;" alt="Md. Sahil Khan"/><br /><sub><b>Md. Sahil Khan</b></sub></a><br /><a href="#content-sahilkhan03" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Arifkhan21"><img src="https://avatars1.githubusercontent.com/u/31159594?v=4" width="100px;" alt="Arif Khan"/><br /><sub><b>Arif Khan</b></sub></a><br /><a href="#content-Arifkhan21" title="Content">🖋</a></td>
   </tr>
 </table>
