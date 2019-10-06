@@ -85,6 +85,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "LearnVidFM",
+      "name": "LearnVidFM",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44189538?v=4",
+      "profile": "https://github.com/LearnVidFM",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,

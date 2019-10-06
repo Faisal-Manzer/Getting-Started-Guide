@@ -382,14 +382,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
+    <td align="center"><a href="https://faisal-manzer.in"><img src="https://avatars3.githubusercontent.com/u/18066439?v=4" width="100px;" alt="Faisal Manzer"/><br /><sub><b>Faisal Manzer</b></sub></a><br /><a href="#content-Faisal-Manzer" title="Content">🖋</a></td>
     <td align="center"><a href="https://faraazahmad.github.io"><img src="https://avatars1.githubusercontent.com/u/19265077?v=4" width="100px;" alt="Syed Faraaz Ahmad"/><br /><sub><b>Syed Faraaz Ahmad</b></sub></a><br /><a href="#content-faraazahmad" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.hackerrank.com"><img src="https://avatars3.githubusercontent.com/u/46952155?v=4" width="100px;" alt="Dhruv Trehan"/><br /><sub><b>Dhruv Trehan</b></sub></a><br /><a href="#content-DhruvTrehan" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ShobhitRathi"><img src="https://avatars3.githubusercontent.com/u/23173530?v=4" width="100px;" alt="ShobhitRathi"/><br /><sub><b>ShobhitRathi</b></sub></a><br /><a href="#content-ShobhitRathi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mauwazahmed"><img src="https://avatars2.githubusercontent.com/u/56031816?v=4" width="100px;" alt="mauwazahmed"/><br /><sub><b>mauwazahmed</b></sub></a><br /><a href="#content-mauwazahmed" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/azhanmohammed/"><img src="https://avatars1.githubusercontent.com/u/46521547?v=4" width="100px;" alt="Azhan Mohammed"/><br /><sub><b>Azhan Mohammed</b></sub></a><br /><a href="#content-sheikhazhanmohammed" title="Content">🖋</a></td>
     <td align="center"><a href="http://alhacen.cf"><img src="https://avatars3.githubusercontent.com/u/15712390?v=4" width="100px;" alt="AHMAD HASSAN ANSARI"/><br /><sub><b>AHMAD HASSAN ANSARI</b></sub></a><br /><a href="#content-alhaqhassan" title="Content">🖋</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://sahilkhan.me"><img src="https://avatars2.githubusercontent.com/u/45485428?v=4" width="100px;" alt="Md. Sahil Khan"/><br /><sub><b>Md. Sahil Khan</b></sub></a><br /><a href="#content-sahilkhan03" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Arifkhan21"><img src="https://avatars1.githubusercontent.com/u/31159594?v=4" width="100px;" alt="Arif Khan"/><br /><sub><b>Arif Khan</b></sub></a><br /><a href="#content-Arifkhan21" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/LearnVidFM"><img src="https://avatars0.githubusercontent.com/u/44189538?v=4" width="100px;" alt="LearnVidFM"/><br /><sub><b>LearnVidFM</b></sub></a><br /><a href="#review-LearnVidFM" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
