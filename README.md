@@ -37,6 +37,7 @@ This is not a combination of the greatest courses these are normal courses. I am
     - [Core Concepts](#core-concepts)
     - [With C/C++](#with-cc)
     - [With Python](#with-python)
+- [Placement Prep](#placement-prep)
 - [Machine Learning AI NLP](#machine-learning-ai-nlp)
 - [App Development](#app-development)
     - [React Native](#react-native)
@@ -184,9 +185,15 @@ Take any of the two above course for getting started with basics. They have the 
 Core concept of Data structures are same for every language.
 - [On Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/): This is quite cool which covers the concepts with Pseudo-code.
 ### With Python
-[Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.  
+1.[Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.
+2.[Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi] The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+
 ### With C/C++
-I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
+1.I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
+2.Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
+3.[Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html)The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+## Placement Prep
+[Aman Dhattarwal](https://www.youtube.com/watch?v=PihtA9D-IlE)This guy probably nails it when it comes to knowledge about placement procedure and planned career tracks.
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximu outcome from this course.
@@ -194,7 +201,8 @@ Complete the assignments for maximu outcome from this course.
 3. For understanding [Linear Algebra : Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) and how [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) and [Differntial Equations :  Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) try these playlists. Channel [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) gives good visual animations to understand these concepts easily.
 4. For specialization in Machine Learning and Deep Learning complete all these [Course](https://www.coursera.org/specializations/deep-learning) in specialization pragramme with assignments.
 5. For some real world projects [Fast.ai](fast.ai) and [Applied AI Course](https://www.appliedaicourse.com/) are preffered.
-6. At last for learning more and more daily try reading as much research papers as possible.
+6. [Krish Naik](https://www.youtube.com/results?search_query=krish+naik) Apart from his tutorials on various ml,ai and data science concepts, his introductory videos are a treat for the beginners as they include best online resources(free and paid ones) for learning several field concepts, system configs required, interview questions and interactive sessions involving his path to data science etc.
+7. At last for learning more and more daily try reading as much research papers as possible.
 
 ## App Development
 ### React Native
@@ -233,6 +241,7 @@ Waiting for the PR.
 ### Python
 1. [W3Schools](https://www.w3schools.com/python/default.asp)
 2. [Udemy Course](https://www.udemy.com/share/1000dOAEYceF9SQHQ=/): This course is best that I could find, but is lengthy. I recommend this to all level of students, beginners to advanced.
+3.[Learn Python with Corey Schafer](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) This is indeed the best python course available for free online. The playlist includes general OOPs concepts, setting up the IDE and moves onto specific libraries including matplotlib(), image processing using pillow and django tutorials.
 ### Ruby
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-programming): This is probably the best Ruby course there is. It teaches Ruby using the concept of learning by doing (which, in my opinion, is the best way yo learn programming), i.e. you learn concepts by building projects using what you just learnt.
 
