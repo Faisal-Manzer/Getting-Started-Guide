@@ -171,7 +171,7 @@ Laravel is one of the most popular PHP framework used across the globe to build 
 2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
 ### Download Guide
-_THIS PORTION WAS COPIED FROM https://github.com/Faisal-Manzer/web-guide BY FAISAL MANZER_
+_THIS PORTION WAS COPIED FROM https://github.com/Faisal-Manzer/web-guide BY FAISAL MANZER_. 
 If you are going to start web development you surely need tools.  
 As for beginners, it is quite difficult to know all what why how to download.
 
