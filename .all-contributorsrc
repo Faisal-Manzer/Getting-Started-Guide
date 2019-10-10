@@ -94,15 +94,6 @@
       "contributions": [
         "review"
       ]
-    },
-    {
-      "login": "ask",
-      "name": "Ask Solem",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/1558?v=4",
-      "profile": "http://twitter.com/asksol",
-      "contributions": [
-        "content"
-      ]
     }
   ],
   "contributorsPerLine": 7,

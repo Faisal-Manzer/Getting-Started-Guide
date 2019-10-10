@@ -459,7 +459,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://sahilkhan.me"><img src="https://avatars2.githubusercontent.com/u/45485428?v=4" width="100px;" alt="Md. Sahil Khan"/><br /><sub><b>Md. Sahil Khan</b></sub></a><br /><a href="#content-sahilkhan03" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Arifkhan21"><img src="https://avatars1.githubusercontent.com/u/31159594?v=4" width="100px;" alt="Arif Khan"/><br /><sub><b>Arif Khan</b></sub></a><br /><a href="#content-Arifkhan21" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/LearnVidFM"><img src="https://avatars0.githubusercontent.com/u/44189538?v=4" width="100px;" alt="LearnVidFM"/><br /><sub><b>LearnVidFM</b></sub></a><br /><a href="#review-LearnVidFM" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="http://twitter.com/asksol"><img src="https://avatars2.githubusercontent.com/u/1558?v=4" width="100px;" alt="Ask Solem"/><br /><sub><b>Ask Solem</b></sub></a><br /><a href="#content-ask" title="Content">🖋</a></td>
   </tr>
 </table>
 
