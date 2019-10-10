@@ -258,9 +258,11 @@ Core concept of Data structures are same for every language.
 2. [Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi](https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-e158071362.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
 
 ### With C/C++
-1. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
-2. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
-3.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+1. If you are an absolute beginner and struggling to develop basic programming aptitude and logical thinking, then [this](https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A) is probably the best place for you. Feel free to learn in Hinglish.
+2. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
+3. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
+4.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
+
 
 ### With Java
 [Apni Kaksha](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
