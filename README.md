@@ -101,15 +101,20 @@ Some Advanced concepts:
 4. [Axios](https://github.com/axios/axios): Although this has nothing to do with react but is very frequently used.
 
 #### Angular
-1. [Get started with official tutorial](https://angular.io/tutorial)
-2. [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
-3. [Angular Concepts](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-4. [Angular Front to back](https://www.udemy.com/course/angular-4-front-to-back/)
-5. [Angular Crash Course for busy developers](https://www.udemy.com/course/angular-crash-course/)
-6. [Angular Styling and Mastercourse](https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/)
-7. [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
-8. [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
-9. [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
+**Official Documentation and Resources (Free)**
+- [Get started with official tutorial](https://angular.io/tutorial)
+
+**Courses with Certification (Paid)**
+- [Angular Concepts](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+- [Angular Front to back](https://www.udemy.com/course/angular-4-front-to-back/)
+- [Angular Crash Course for busy developers](https://www.udemy.com/course/angular-crash-course/)
+- [Angular Styling and Mastercourse](https://www.udemy.com/course/angular-styling-animations-for-angular-2-and-angular-4/)
+
+**YouTube Tutorials to learn all the Basic Concepts**
+- [Get started with videos](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+- [Learn Angular from Scratch](https://www.youtube.com/watch?v=OL3JppHRluE)
+- [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
+- [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
 
 
 #### Basic Level 2
