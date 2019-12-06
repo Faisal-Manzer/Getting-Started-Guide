@@ -1,4 +1,4 @@
-# Productive Summer
+# Getting Started Guide
 Students who are willing to start something this summer.  
 
 ## Mindset
@@ -29,7 +29,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Ruby on Rails](#ruby-on-rails)
         - [PHP](#php-backend)
         - [Laravel](#laravel)
-    - [Download Guide](#download-guide)
+- [Download Guide](#download-guide)
 - [Cloud Computing and Security](#cloud-computing-and-security)
     - [Get started with AWS](#get-started-with-aws)
     - [System design](#system-design)
@@ -59,6 +59,7 @@ This is not a combination of the greatest courses these are normal courses. I am
 - [Interview Prep](#interview-prep)
     - [Coding Interviews](#coding-interviews)
     - [Aptitude](#aptitude)
+- [How to download udemy courses for free](#udemy-courses-for-free-download)
 
 
 ## Web Development
@@ -69,14 +70,14 @@ These are more than concepts and understanding terminologies. Backend generally 
 4. [The Web Developer Bootcamp] (https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ### Frontend development
-The workflow that I will suggest that do [Basic](https://www.udemy.com/course/front-end-web-development/) and then move to [React](https://www.udemy.com/course/react-2nd-edition/) (because that is easy to start with) then come to [Basic Level 2](https://www.youtube.com/watch?v=1haoknb4m6k).
+The workflow that I will suggest that do [Basic](#basic-needed-for-all) and then move to [React](#react) (because that is easy to start with) then come to [Basic Level 2](#basic-level-2).
 
 #### Basic [Needed for all]
 1. [HTML](https://www.w3schools.com/html/default.asp): The skeleton
 2. [CSS](https://www.w3schools.com/css/default.asp): The beauty
 3. [JS Basic](https://www.w3schools.com/js/default.asp): The logic
-4. [HTML BASIC 2](https://www.udemy.com/course/html-basic/) : The practical 
-This is a basic portion for anyone interested in frontend development. I guess a good read for HTML, seeing some examples of CSS and trying some of JS will do. Don't get stuck here for long.
+
+This is a basic portion for anyone interested in frontend development. I guess a good read for HTML, seeing some examples of CSS and trying some of JS will do. Don't get stuck here for long. Alternativily you can try [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on udemy which is great.
 
 #### React
 **A JavaScript library for building user interfaces.**  
@@ -175,7 +176,7 @@ Laravel is one of the most popular PHP framework used across the globe to build 
 1. [Get Started with official tutorial](https://laravel.com/docs/5.8/installation)
 2. [Get started with videos](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
-### Download Guide
+## Download Guide
 _THIS PORTION WAS COPIED FROM https://github.com/Faisal-Manzer/web-guide BY FAISAL MANZER_. 
 If you are going to start web development you surely need tools.  
 As for beginners, it is quite difficult to know all what why how to download.
@@ -232,6 +233,9 @@ Text editor works at one file at a time they will also suggest you code but are 
     - [TabMan](https://chrome.google.com/webstore/detail/tabman-tabs-manager/hgmnkflcjcohihpdcniifjbafcdelhlm) is helpful when you will search lots and lots of stuff all in a new tab and now you are left with just favicon of the page. TabMan comes in rescue. I use it a lot.
     - [Chrome Web Server](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) a simple web server by Chrome.
     - [Grammerly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) is my love. it corrects all the spelling and grammatical mistakes in an article
+
+### Get udemy course for free from [freecoursesite](https://freecoursesite.com/)
+
 
 ## Cloud Computing and Security
 ### Get started with AWS
@@ -395,6 +399,9 @@ Interview is an important stage in one's life inorder to get a job in a good org
 2. [GeeksforGeeks](https://www.geeksforgeeks.org)
 3. [Last Moment Tutions (Simple & Easy)](https://www.youtube.com/watch?v=ZwZPAP2mbCA&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
 
+## [Udemy courses for free download](https://freecoursesite.com/)
+We hate piracy but we know that as students we have some finacial problems, so we included this.
+
 ## ToDo Section
 - [ ] Web Development
     - [ ] Frontend development
@@ -413,14 +420,14 @@ Interview is an important stage in one's life inorder to get a job in a good org
     - [x] Get started with AWS
     - [x] System design
     - [x] Cyber Security and Ethical Hacking
-- [ ] Data Structures and Algorithm
+- [x] Data Structures and Algorithm
     - [x] With Python
     - [x] With C/C++
     - [x] With Java
 - [x] Machine Learning AI NLP
 - [ ] App Development
     - [x] React Native
-    - [ ] Flutter
+    - [x] Flutter
     - [ ] Android
     - [ ] iOS
 - [ ] Technologies and Languages
