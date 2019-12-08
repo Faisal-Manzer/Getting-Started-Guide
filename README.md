@@ -1,5 +1,5 @@
 # Getting Started Guide
-Students who are willing to start something this summer.  
+For students who are willing to start something.  
 
 ## Mindset
 Go through these basic tutorials and all courses. *The Numbered bullets should be followed in sequence, whereas unordered bullets can be done randomly*.  
