@@ -1,0 +1,104 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Faisal-Manzer",
+      "name": "Faisal Manzer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18066439?v=4",
+      "profile": "https://faisal-manzer.in",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "faraazahmad",
+      "name": "Syed Faraaz Ahmad",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19265077?v=4",
+      "profile": "https://faraazahmad.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DhruvTrehan",
+      "name": "Dhruv Trehan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46952155?v=4",
+      "profile": "https://www.hackerrank.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ShobhitRathi",
+      "name": "ShobhitRathi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23173530?v=4",
+      "profile": "https://github.com/ShobhitRathi",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mauwazahmed",
+      "name": "mauwazahmed",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/56031816?v=4",
+      "profile": "https://github.com/mauwazahmed",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sheikhazhanmohammed",
+      "name": "Azhan Mohammed",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46521547?v=4",
+      "profile": "https://www.linkedin.com/in/azhanmohammed/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alhaqhassan",
+      "name": "AHMAD HASSAN ANSARI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15712390?v=4",
+      "profile": "http://alhacen.cf",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sahilkhan03",
+      "name": "Md. Sahil Khan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45485428?v=4",
+      "profile": "http://sahilkhan.me",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Arifkhan21",
+      "name": "Arif Khan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/31159594?v=4",
+      "profile": "https://github.com/Arifkhan21",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "LearnVidFM",
+      "name": "LearnVidFM",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44189538?v=4",
+      "profile": "https://github.com/LearnVidFM",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Productive-Summer",
+  "projectOwner": "Faisal-Manzer",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
