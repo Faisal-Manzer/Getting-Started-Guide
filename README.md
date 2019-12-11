@@ -99,7 +99,7 @@ I haven't worked with angular yet, I would love for your pull request.
 
 #### Vue
 1. [Get started with official tutorial](https://vuejs.org/v2/guide/)
-2. [Get started with videos](https://vuejs.org/v2/guide/)
+2. [Get started with videos](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 #### Basic Level 2
 Now JavaScript generally means combined with node.
