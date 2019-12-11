@@ -96,6 +96,10 @@ Some Advanced concepts:
 
 I haven't worked with angular yet, I would love for your pull request.
 
+#### Vue.js
+1. [Get started with official tutorial](https://vuejs.org/v2/guide/)
+2. [Get started with videos](https://vuejs.org/v2/guide/)
+
 #### Basic Level 2
 Now JavaScript generally means combined with node.
 
@@ -182,7 +186,8 @@ Core concept of Data structures are same for every language.
 ### With Python
 [Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.  
 ### With C/C++
-I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.   
+I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful.
+advanced data structures spring [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/session-1-persistent-data-structures/) .
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximu outcome from this course.
