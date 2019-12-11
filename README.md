@@ -20,6 +20,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Basics](#basic-needed-for-all)
         - [React](#react)
         - [Angular](#angular)
+        - [Vue](#vue)
         - [Basic Level 2](#basic-level-2)
         - [Design Concepts](#design-concepts)
     - [Backend](#backend-development)
@@ -96,7 +97,7 @@ Some Advanced concepts:
 
 I haven't worked with angular yet, I would love for your pull request.
 
-#### Vue.js
+#### Vue
 1. [Get started with official tutorial](https://vuejs.org/v2/guide/)
 2. [Get started with videos](https://vuejs.org/v2/guide/)
 
