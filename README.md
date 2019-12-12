@@ -20,6 +20,7 @@ This is not a combination of the greatest courses these are normal courses. I am
         - [Basics](#basic-needed-for-all)
         - [React](#react)
         - [Angular](#angular)
+        - [Vue](#vue)
         - [Basic Level 2](#basic-level-2)
         - [Design Concepts](#design-concepts)
     - [Backend](#backend-development)
@@ -117,6 +118,10 @@ Some Advanced concepts:
 - [Angular Tutorial for Beginners](https://www.youtube.com/watch?v=k5E2AVpwsko)
 - [Angular Crash Course for Beginners](https://www.youtube.com/watch?v=_TLhUCjY9iA)
 
+
+#### Vue
+1. [Get started with official tutorial](https://vuejs.org/v2/guide/)
+2. [Get started with videos](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 #### Basic Level 2
 Now JavaScript generally means combined with node.
@@ -266,12 +271,13 @@ Core concept of Data structures are same for every language.
 1. [Mit OCW](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) Course is great if you can dedicate time.
 2. [Data Structures Made Easy:Thinking with Python by Narsimha Karumanchi](https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-e158071362.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
 
+
 ### With C/C++
 1. If you are an absolute beginner and struggling to develop basic programming aptitude and logical thinking, then [this](https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A) is probably the best place for you. Feel free to learn in Hinglish.
 2. I found this [course](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) useful. 
 3. Launched as an interview prep course, the [Apni Kaksha Channel](https://www.youtube.com/watch?v=ulxP_9kqI8U&list=PLKKfKV1b9e8qBh_LG02V8R8qGRQjloeBj) is probably one of the best C++ beginner to advanced course launched by NSUT grads working in the tech industry.
 4.  [Data Structures Made Easy by Narsimha Karumanchi](https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html): The book is a must for beginner to advanced concepts. the interview process for the profile for an SDE becomes a cakewalk once someone is thorough with this book's concepts.
-
+5. advanced data structures spring MIT [course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/session-1-persistent-data-structures/) .
 
 ### With Java
 [Apni Kaksha](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
@@ -282,7 +288,6 @@ Core concept of Data structures are same for every language.
 
 ## Placement Prep
 [Aman Dhattarwal](https://www.youtube.com/watch?v=PihtA9D-IlE): This guy probably nails it when it comes to knowledge about placement procedure and planned career tracks.
-
 ## Machine Learning AI NLP
 1. To get started with Machine Learning first course you need to do is [this](https://www.coursera.org/learn/machine-learning).
 Complete the assignments for maximum outcome from this course.
